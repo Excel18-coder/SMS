@@ -1,0 +1,5 @@
+🚀 Server started on port 5000
+📝 Environment: development
+🔒 Security: Enabled (Helmet, Rate Limiting, XSS Protection)
+🌐 CORS: http://localhost:3000
+✅ Connected to MongoDB
